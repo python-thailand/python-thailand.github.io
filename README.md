@@ -7,5 +7,5 @@
 ## เข้าร่วมกับเรา
 
 ใครที่สนใจพัฒนาหรืออัพเดทเว็บไซต์นี้เพื่อให้เป็นแหล่งเรียนรู้ภาษาไพธอนสำหรับคนไทย 
-สามารถติดต่อผมมาได้ที่เพจ [สมาคม Python Dev แห่งประเทศไทย[(https://www.facebook.com/thai.python.dev/) 
+สามารถติดต่อผมมาได้ที่เพจ [สมาคม Python Dev แห่งประเทศไทย](https://www.facebook.com/thai.python.dev/) 
 หรือที่ FB: [Nutt Rangsiman](https://www.facebook.com/rangsiman1993)
