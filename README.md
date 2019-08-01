@@ -1,5 +1,14 @@
 ## Welcome to Python Thailand
 
+<p align="center">
+<img 
+  src="python-th-logo.png" 
+  alt="python-th-logo" 
+  width="30%" 
+  height="auto"
+/>
+</p>
+
 ยินดีต้อนรับเข้าสู่เว็บไซต์ Python Thailand - แหล่งเรียนรู้ภาษาไพธอนสำหรับคนไทย
 
 ขออภัย ตอนนี้เรากำลังปรับปรุงเว็บไซต์เพื่ออัพเดทเนื้อหาและสาระที่ครบถ้วนของภาษาไพธอน ...
