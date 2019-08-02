@@ -1,4 +1,47 @@
-theme: jekyll-theme-cayman
+theme: minima
 title: Python Thailand
-description: แหล่งเรียนรู้ภาษาไพธอนสำหรับคนไทย
+author: Python Thailand Association
+email: rangsiman1993@gmail.com
+description: แหล่งเรียนรู้ภาษาไพธอน จัดทำในภาษาไทย เพื่อคนไทย โดยคนไทย
 logo: python-th-logo.png
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: jekyllrb
+    github:  python-thailand
+    # rss: rss
+    # dribbble: jekyll
+    facebook: thai.python.dev
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# Navigation
+header_pages:
+ - about.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
