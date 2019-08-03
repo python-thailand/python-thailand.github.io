@@ -8,4 +8,6 @@ layout: default
 
 <br>
 
-https://www.python.org/dev/peps/pep-0011/#supporting-platforms
+โปรแกรมไพธอนสามารถรันได้บน(เกือบ)ทุกระบบปฏิบัติการ ตามข้อตกลงของชมชนไพธอน PEP หมายเลข 0011 ได้กล่าวถึงระบบปฏิบัติการที่ตัวภาษารองรับ [อ่านเพิ่มเติมได้ที่นี่][pep-0011] 
+
+[pep-0011]: https://www.python.org/dev/peps/pep-0011/#supporting-platforms

@@ -26,30 +26,20 @@ layout: default
 
 ### Visual Studio Code
 
-{% highlight python %}
-print("อยู่ระหว่างการปรับปรุงเนื้อหา")
-{% endhighlight %}
+- Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 ### Vi/Vim
 
-{% highlight python %}
-print("อยู่ระหว่างการปรับปรุงเนื้อหา")
-{% endhighlight %}
+- Link: [https://www.vim.org/](https://www.vim.org/)
 
 ### NotePad++
 
-{% highlight python %}
-print("อยู่ระหว่างการปรับปรุงเนื้อหา")
-{% endhighlight %}
+- Link: [https://notepad-plus-plus.org/](https://notepad-plus-plus.org/)
 
 ### Sublime
 
-{% highlight python %}
-print("อยู่ระหว่างการปรับปรุงเนื้อหา")
-{% endhighlight %}
+- Link: [https://www.sublimetext.com/](https://www.sublimetext.com/)
 
 ### Atom
 
-{% highlight python %}
-print("อยู่ระหว่างการปรับปรุงเนื้อหา")
-{% endhighlight %}
+- Link: [https://atom.io/](https://atom.io/)

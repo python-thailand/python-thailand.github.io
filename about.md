@@ -38,4 +38,7 @@ git request-pull v1.0 https://github.com/python-thailand/python-thailand.github.
 
 ## ผู้พัฒนา
 
-- [รังสิมันต์ เกษแก้ว](rangsimanketkaew.github.io)
+- รังสิมันต์ เกษแก้ว
+  - E-mail: rangsiman1993@gmail.com
+  - Website: <https://rangsimanketkaew.github.io> 
+  - GitHub: <https://github.com/rangsimanketkaew>

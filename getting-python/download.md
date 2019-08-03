@@ -19,7 +19,13 @@ layout: default
 
 ### Anaconda from Continuum Analytics
 
+- Python distribution ยอดฮิต
 - Link: <https://www.anaconda.com/distribution/#download-section>
+
+### Miniconda
+
+- Anaconda ฉบับย่อ ซึ่งจะมีแต่ตัว distribution ไม่มีกสนติดตั้งไลบรารี่ล่วงหน้ามาให้เหมือนกับของ Anaconda
+- Link: <https://docs.conda.io/en/latest/miniconda.html>
 
 ### ChinesePython Project
 
@@ -61,8 +67,9 @@ layout: default
 
 - Link: <https://wiki.python.org/moin/PythonForArmLinux>
 
-### PythonLabsPython: an old name for the python.org distribution
+### PythonLabsPython
 
+- ชื่อเก่าของ python.org distribution
 - Link: <https://wiki.python.org/moin/PythonLabsPython>
 
 ### PythonwarePython
@@ -77,6 +84,6 @@ layout: default
 
 - Link: <http://web.archive.org/web/20060326191953/http://www.mhuffman.com/resource/index.html>
 
-### WinPython: Another scientific-focused Python distribution, based around Spyder
+### WinPython
 
 - Link: <https://winpython.github.io/>
