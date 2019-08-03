@@ -42,3 +42,93 @@ git request-pull v1.0 https://github.com/python-thailand/python-thailand.github.
   - E-mail: rangsiman1993@gmail.com
   - Website: <https://rangsimanketkaew.github.io> 
   - GitHub: <https://github.com/rangsimanketkaew>
+
+<br>
+
+---
+
+<br>
+
+## โครงสร้างเว็บไซต์
+
+_Latest updated: August 3, 2019_
+
+```
+.
+├── 404.html
+├── Gemfile
+├── Gemfile.lock      
+├── README.md
+├── _config.yml       
+├── _site
+│   ├── 404.html      
+│   ├── README.md     
+│   ├── about
+│   │   └── index.html
+│   ├── advanced
+│   │   └── index.html
+│   ├── articles
+│   │   └── index.html
+│   ├── assets
+│   │   ├── img
+│   │   ├── main.css
+│   │   └── minima-social-icons.svg
+│   ├── beginner
+│   │   └── index.html
+│   ├── feed.xml
+│   ├── getting-python
+│   │   ├── download.html
+│   │   ├── get-started.html
+│   │   ├── install.html
+│   │   └── platform.html
+│   ├── index.html
+│   ├── intermediate
+│   │   └── index.html
+│   ├── intro
+│   │   ├── history.html
+│   │   ├── logo.html
+│   │   ├── outcomes.html
+│   │   ├── philosophy.html
+│   │   ├── why-python.html
+│   │   └── you-should-know.html
+│   ├── python-th-logo-big.png
+│   ├── python-th-logo.png
+│   ├── talks
+│   │   └── index.html
+│   └── tools
+│       ├── library-package.html
+│       └── python-editor.html
+├── about.md
+├── advanced
+│   └── index.md
+├── articles
+│   └── index.md
+├── assets
+│   └── img
+│       ├── guido.png
+│       └── python-logo.png
+├── beginner
+│   └── index.md
+├── getting-python
+│   ├── download.md
+│   ├── get-started.md
+│   ├── install.md
+│   └── platform.md
+├── index.md
+├── intermediate
+│   └── index.md
+├── intro
+│   ├── history.md
+│   ├── logo.md
+│   ├── outcomes.md
+│   ├── philosophy.md
+│   ├── why-python.md
+│   └── you-should-know.md
+├── python-th-logo-big.png
+├── python-th-logo.png
+├── talks
+│   └── index.md
+└── tools
+    ├── library-package.md
+    └── python-editor.md
+```
