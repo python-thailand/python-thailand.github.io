@@ -6,14 +6,14 @@ layout: default
 
 ---
 
-<br> เว็บไซต์ DotPython
+<br>
 
 ### **สอนภาษาไพธอนโดยชมรม Clique**
 
 - คลิปสอนภาษา Python โดยชมรม Clique <https://www.facebook.com/clique.chula>
 - Link: <https://www.youtube.com/playlist?list=PLVcky7_Sy_7ltVaI1WVIWDvit_DtgUYBw>
 
-### **Dot Python**
+### **เว็บไซต์ Dot Python**
 
 - เว็บไซต์สอนภาษาไพธอนที่แบ่งเนื้อหาออกเป็นหมวดหมู่ สามารถอ่านและศึกษาตามได้อย่างง่าย ๆ สอนโดยคุณทวีรัตน์ นวลช่วย คณะวิทยาศาสตร์และเทคโนโลยี มหาวิทยาลัยราชภัฏสงขลา 
 - Link: <https://sites.google.com/site/dotpython/>
@@ -30,19 +30,17 @@ layout: default
 
 [python3-prasert]: https://www.youtube.com/watch?v=bu6kwrpOqFM&list=PLoTScYm9O0GH4YQs9t4tf2RIYolHt_YwW
 
-
 ### **MascusCode**
 
 - เว็บไซต์ MarcusCode มีบทเรียนในการเขียนโปรแกรมในภาษา Python ในพื้นฐานจนถึงระดับสูงแยกตามบท ซึ่งเนื้อหาที่เว็บไซต์นี้สอนนั้นจะกระชับและตรงประเด็น ทำให้ผู้ที่ศึกษาตามสามารถเข้าใจถึงหลักการของภาษาไพธอนได้อย่างรวดเร็ว ตัวอย่างของเนื้อหาที่สอน เช่น โครงสร้างของภาษาไพธอน ตัวแปรและประเภทข้อมูล ตัวดำเนินการ อาเรย์และฟังก์ชัน 
 - Link: <http://marcuscode.com/lang/python>
-
 
 ### **Google for Education**
 
 - เรียนไพธอนที่กูเกิลสำหรับการศึกษา (Google for Education) ก็เป็นอีกช่องทางหนึ่งที่น่าสนใจ ศึกษาไพธอนกับองค์กรระดับโลกอย่างกูเกิล มีทั้งตัวอย่างของโค๊ดและวิดีโอสอน นอกจากนี้ยังช่วยให้เราฝึกภาษาอังกฤษอีกด้วย
 - Link: <https://developers.google.com/edu/python/>
 
-### บล๊อก python3.wannaphong.com
+### **บล๊อก python3.wannaphong.com**
 
 - สอนพื้นฐานภาษาไพธอน โดย วรรณพงษ์  ภัททิยไพบูลย์
 - Link: <https://python3.wannaphong.com/p/blog-page_7.html>
@@ -81,5 +79,9 @@ layout: default
 ### **MindPHP**
 
 - วิดีโอพร้อมเนื้อหาโปรแกรมภาษาไพธอน
-- Link: https://www.youtube.com/playlist?list=PLLi1ciqQAf8TVFbJpl7XY23lzdKrpxsMM
+- Link: <https://www.youtube.com/playlist?list=PLLi1ciqQAf8TVFbJpl7XY23lzdKrpxsMM>
 
+### **สอนเขียนไพธอน โดย CodeMobile**
+
+- เพลลิสต์สอนภาษาไพธอนโดย CMDev
+- Link: <https://www.youtube.com/playlist?list=PLjPfp4Ph3gBr--wOYOAmXvP91gMssL0h8>

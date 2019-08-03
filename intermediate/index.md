@@ -8,13 +8,19 @@ layout: default
 
 <br>
 
-###  **เว็บบล็อก PhyBlas**
+### **เว็บบล็อก PhyBlas**
 
 - เนื้อหา NumPy และ Matplotlib
 - Link: <https://phyblas.hinaboshi.com/saraban/numpy_matplotlib>
 
 - เนื้อหา Pandas
 - Link: <https://phyblas.hinaboshi.com/saraban/pandas>
+
+- เนื้อหา Machine Learning
+- Link: <https://phyblas.hinaboshi.com/saraban/kanrianrukhongkhrueang>
+
+- เนื้อหา Neural Network
+- Link: <https://phyblas.hinaboshi.com/saraban/khrong_khai_prasat_thiam>
 
 ### **สอนไลบรารี่สำคัญ ๆ ของไพธอน โดย prasertcbs**
 
@@ -80,13 +86,13 @@ layout: default
 - เพลลิสต์สอนเทคนิคในการเขียนโปรแกรมไพธอนเพื่อติดต่อกับฐานข้อมูล เช่น SQLite, MySQL และ Microsoft SQL Server เช่น การสร้างฐานข้อมูล การสร้างตาราง การใช้คำสั่งในการสืบค้น เพิ่ม ลบ เปลี่ยนข้อมูลในตาราง โดย รศ.ดร.ประเสริฐ คณาวัฒนไชย คณะพาณิชยศาสตร์และการบัญชี จุฬาลงกรณ์มหาวิทยาลัย
 - Link: <https://www.youtube.com/playlist?list=PLoTScYm9O0GEdZtHwU3t9k3dBAlxYoq59>
 
+### **เชื่อมต่อไพธอนกับเซอร์เวอร์**
+
+- สอนเขียนภาษาไพธอนเพื่อเชื่อมต่อกับเซอร์เวอร์ และการจัดการเกี่ยวกับ JSON สอนโดย CMDev
+- Link: <https://www.youtube.com/playlist?list=PLjPfp4Ph3gBpwL7-HoA44PRbQX4TlQGJ9>
+
 ### **การประมวลข้อมูลทางภาษา (NPL)**
 
 - บล๊อกที่สอนการใช้เครื่องมือเฉพาะทางต่าง ๆ ของไพธอนในการประมวลข้อมูลทางภาษาด้วยภาษาไพธอน และ package ต่างที่ช่วยในการตัดคำ ติด pos tag ตัดพยางค์ และวิเคราะห์โครงสร้างประโยค
 - รีวิวไพธอนก่อนเรียนคอร์สนี้ [Python Review](https://colab.research.google.com/drive/1Xo1_vIwXUC8-c1YeI5lqMA_oAbLFbsaK)
-- 
 - Link: <https://attapol.github.io/compling/basictext.html>
-
-### สอนการใช้งาน PyTorch โดย PhyBlas
-
-- Link: <https://phyblas.hinaboshi.com/saraban/pytorch>

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Python Thailand - แหล่งเรียนรู้ภาษาไพธอนสำหรับคนไทย
+## **Python Thailand - แหล่งเรียนรู้ภาษาไพธอนสำหรับคนไทย**
 
 <p align="center">
 <img 
@@ -13,31 +13,36 @@ layout: default
 />
 </p>
 
+<br>
+
 {% highlight python %}
 print("Hello Thai Pythonista!")
 {% endhighlight %}
 
 <br>
 
-ยินดีต้อนรับเข้าสู่ Python Thailand เว็บไซต์ที่เปรียบเสมือนเป็นประตูบานแรกสำหรับคนที่ต้องการจะศึกษาภาษาไพธอน
+ยินดีต้อนรับเข้าสู่ Python Thailand เว็บไซต์ที่เปรียบเสมือนเป็นประตูบานแรกสำหรับคนที่ต้องการก้าวเข้ามาสู่จักรวาลของภาษาไพธอน เว็บไซต์นี้ได้รวบรวมแหล่งข้อมูลที่เกี่ยวข้องกับภาษาไพธอนที่ถูกเขียนขึ้นในภาษาไทย ไม่ว่าจะเป็นทั้งการสอนไพธอน เว็บบล็อคไพธอน รวมถึงวิดีโอที่เกี่ยวกับไพธอนต่าง ๆ 
+ไพธอนนั้นมีประโยชน์มากมาย ไพธอนเปรียบเสมือนไม้กายสิทธิ์ที่สามารถช่วยให้เราสร้างสรรค์นวัติกรรมหรือสิ่งใหม่ ๆ ให้กับมวลมนุษยชาติได้ 
+
+ด้วยเนื้อหาที่อัดแน่นในเว็บไซต์หรือแหล่งข้อมู,ที่เรารวบรวมมาให้คุณไว้ ณ ที่นี้ คุณจะสามารถเขียนโปรแกรมด้วยภาษาไพธอนได้ เริ่มตั้งแต่การสร้างแอพพลิเคชันอย่างง่ายไปจนถึงโปรแกรมการคำนวณที่ซับซ้อน คุณจะเข้าใจหลักการสำคัญในการเขียนโปรแกรมทั้งในพื้นฐานทั้งหมดและในขั้นสูงที่เป็นการเขียนโปรแกรมแบบเชิงวัตถุ คุณจะได้รู้จักกับเครื่องมือที่ใช้ในการพัฒนาโปรแกรมหลากหลายรูปแบบ ซึ่งเนื้อหาเหล่านี้เป็นพื้นฐานที่สำคัญที่จะทำให้คุณสามารถนำไปพัฒนาทักษะการเขียนโปรแกรมภาษาไพธอน ของคุณในขั้นสูงต่อไป เช่น การพัฒนาเว็บไซต์ การสร้างเกม ฐานข้อมูล เน็ตเวิร์ค การจัดการกราฟฟิค เป็นต้น
 
 <br>
 
-## ภาษาไพธอน (Python) ?
+## ภาษาไพธอน
 
 - [ประวัติและต้นกำเนิด](intro/history)
 - [ตราสัญลักษณ์ของภาษาไพธอน](intro/logo)
 - [เกร็ดความรู้เกี่ยวกับไพธอน](intro/you-should-know)
 - [ทำไมต้องไพธอน](intro/why-python)
-- [พัฒนาสิ่งต่าง ๆ รอบตัวด้วยไพธอน](intro/outcomes)
 
 <br>
 
 ## ดาวน์โหลดไพธอนและเครื่องมืออื่น ๆ
 
 - [เริ่มต้นใช้งานไพธอน]()
-- [คอมพิวเตอร์และระบบปฏิบัติการ]()
-- [ดาวน์โหลดไพธอน]()
+- [ระบบปฏิบัติการที่รองรับ](getting-python/platform)
+- [ดาวน์โหลดไพธอน](getting-python/download)
+- [การติดตั้งไพธอน](getting-python/install)
 - [โปรแกรมสำหรับเขียนภาษาไพธอน](tools/python-editor)
 - [ไลบรารี่และแพคเกจ](tools/library-package)
 
@@ -68,6 +73,7 @@ print("Hello Thai Pythonista!")
 
 - [PyCon Thailand 2019][pycon-2019-talk]
 - [PyCon Thailand 2018][pycon-2018-talk]
+- [อื่น ๆ](talks)
 
 [pycon-2019-talk]: https://www.youtube.com/playlist?list=PLTv50MjNM7OrNRagvtwxHHcncUrCgUXe7
 [pycon-2018-talk]: https://www.youtube.com/playlist?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
@@ -104,10 +110,17 @@ print("Hello Thai Pythonista!")
 
 - [Python-Thailand][python-th-group]
 - [สมาคม Python Dev แห่งประเทศไทย][python-dev-page]
-- 
+- [ThaiPy Bangkok][thaipy-group]
+- [Thailand Machine Learning & Artificial Intelligence][thai-ml-ai-group]
+- [Data Science BKK][data-sci-bkk-group]
+- [Colab Thailand][colab-th-group]
 
 [python-th-group]: https://www.facebook.com/groups/ThaiPGAssociateSociety/
 [python-dev-page]: https://www.facebook.com/thai.python.dev/
+[thaipy-group]: https://www.facebook.com/groups/thaipybkk/
+[thai-ml-ai-group]: https://www.facebook.com/groups/941490879222335/
+[data-sci-bkk-group]: https://www.facebook.com/groups/dsbkkgroup
+[colab-th-group]: https://www.facebook.com/groups/colab.thailand/
 
 <br>
 
@@ -135,5 +148,5 @@ print("Hello Thai Pythonista!")
 
 ใครที่สนใจพัฒนาหรืออัพเดทเว็บไซต์นี้เพื่อให้เป็นแหล่งเรียนรู้ภาษาไพธอนสำหรับคนไทย สามารถติดต่อมาทางผู้พัฒนาได้ตามช่องทางต่อไปนี้
 - เพจ [สมาคม Python Dev แห่งประเทศไทย](https://www.facebook.com/thai.python.dev/)
-- GitHub https://github.com/python-thailand/
-- ร่วมเป็นหนึ่งในทีม <https://github.com/python-thailand>
+- GitHub <https://github.com/python-thailand/>
+- ร่วมเป็นส่วนหนึ่งของทีม [รายละเอียดคลิกที่นี่](about)

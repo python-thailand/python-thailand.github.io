@@ -33,3 +33,9 @@ git push https://github.com/python-thailand/python-thailand.github.io master
 {% highlight bash %}
 git request-pull v1.0 https://github.com/python-thailand/python-thailand.github.io master
 {% endhighlight %}
+
+<br>
+
+## ผู้พัฒนา
+
+- [รังสิมันต์ เกษแก้ว](rangsimanketkaew.github.io)

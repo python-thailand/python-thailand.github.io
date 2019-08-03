@@ -8,18 +8,27 @@ layout: default
 
 <br>
 
+### Jupyter Notebook
+
+- Link: [https://jupyter.org/](https://jupyter.org/)
+
+### Jupyter Lab
+
+- Link: [https://jupyterlab.readthedocs.io/en/stable/](https://jupyterlab.readthedocs.io/en/stable/)
+
+### Google Colab
+
+- Link: [https://www.spyder-ide.org/](https://www.spyder-ide.org/)
+
 ### PyCharm
 
-{% highlight python %}
-print("อยู่ระหว่างการปรับปรุงเนื้อหา")
-{% endhighlight %}
+- Link: [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
 
 ### Visual Studio Code
 
 {% highlight python %}
 print("อยู่ระหว่างการปรับปรุงเนื้อหา")
 {% endhighlight %}
-
 
 ### Vi/Vim
 

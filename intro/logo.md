@@ -16,3 +16,7 @@ layout: default
     height="auto"
     />
 </p>
+
+<br>
+
+รายละเอียดเพิ่มเติมดูที่ [https://www.python.org/community/logos/](https://www.python.org/community/logos/)

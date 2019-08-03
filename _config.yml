@@ -2,7 +2,7 @@ theme: minima
 title: Python Thailand
 author: Python Thailand Association
 email: rangsiman1993@gmail.com
-description: แหล่งเรียนรู้ภาษาไพธอน จัดทำในภาษาไทย เพื่อคนไทย โดยคนไทย
+description: แหล่งเรียนรู้ไพธอนภาษาไทย เพื่อคนไทย โดยคนไทย
 logo: python-th-logo.png
 
 show_excerpts: false # set to true to show excerpts on the homepage
