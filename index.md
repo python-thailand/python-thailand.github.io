@@ -6,7 +6,7 @@ layout: default
 
 <p align="center">
 <img 
-  src="python-th-logo.png" 
+  src="/assets/img/python-th-logo.png" 
   alt="python-th-logo" 
   width="30%" 
   height="auto"
@@ -30,23 +30,37 @@ print("Hello Thai Pythonista!")
 
 ## ภาษาไพธอน
 
-- [ประวัติและต้นกำเนิด](intro/history)
-- [ตราสัญลักษณ์ของภาษาไพธอน](intro/logo)
-- [ปรัชญาของไพธอน](intro/philosophy)
-- [เกร็ดความรู้เกี่ยวกับไพธอน](intro/you-should-know)
-- [ทำไมต้องไพธอน](intro/why-python)
-- [ความสำเร็จของไพธอน](intro/outcomes)
+- [ประวัติและต้นกำเนิด][history]
+- [ตราสัญลักษณ์ของภาษาไพธอน][logo]
+- [ปรัชญาของไพธอน][philosophy]
+- [เกร็ดความรู้เกี่ยวกับไพธอน][you-should-know]
+- [ทำไมต้องไพธอน][why-python]
+- [ความสำเร็จของไพธอน][outcomes]
+
+[history]: intro/history
+[logo]: intro/logo
+[philosophy]: intro/philosophy
+[you-should-know]: intro/you-should-know
+[why-python]: intro/why-python
+[outcomes]: intro/outcomes
 
 <br>
 
 ## ดาวน์โหลดไพธอนและเครื่องมืออื่น ๆ
 
-- [เริ่มต้นใช้งานไพธอน](getting-python/get-started)
-- [ระบบปฏิบัติการที่รองรับ](getting-python/platform)
-- [ดาวน์โหลดไพธอน](getting-python/download)
-- [การติดตั้งไพธอน](getting-python/install)
-- [โปรแกรมแก้ไขข้อความสำหรับเขียนภาษาไพธอน](tools/python-editor)
-- [ไลบรารี่และแพคเกจ](tools/library-package)
+- [เริ่มต้นใช้งานไพธอน][get-started]
+- [ระบบปฏิบัติการที่รองรับ][platform]
+- [ดาวน์โหลดไพธอน][download]
+- [การติดตั้งไพธอน][install]
+- [โปรแกรมแก้ไขข้อความสำหรับเขียนภาษาไพธอน][text-editor]
+- [ไลบรารี่และแพคเกจ][library-package]
+
+[get-started]: getting-python/get-started
+[platform]: getting-python/platform
+[download]: getting-python/download
+[install]: getting-python/install
+[text-editor]: tools/text-editor
+[library-package]: tools/library-package
 
 <br>
 
@@ -54,10 +68,15 @@ print("Hello Thai Pythonista!")
 
 เลือกระดับความยากของเนื้อหา
 
-- [เริ่มต้น (Beginner)](beginner)
-- [ปานกลาง (Intermediate)](intermediate)
-- [ขั้นสูง (Advanced)](advanced)
-- [บทความเฉพาะด้าน](articles)
+- [เริ่มต้น (Beginner)][level-1]
+- [ปานกลาง (Intermediate)][level-2]
+- [ขั้นสูง (Advanced)][level-3]
+- [บทความเฉพาะด้าน][read-articles]
+
+[level-1]: learning/beginner
+[level-2]: learning/intermediate
+[level-3]: learning/advanced
+[read-articles]: articles
 
 <br>
 
@@ -84,29 +103,43 @@ print("Hello Thai Pythonista!")
 
 <br>
 
-## ฝึกทำความโจทย์
+## โจทย์และการแก้ปัญหา
 
-- [ระดับพื้นฐาน]()
-- [ระดับปานกลาง - ยาก]()
-- [โจทย์การสอบสัมภาษณ์งาน]()
+- [ระดับพื้นฐาน][problem-1]
+- [ระดับปานกลาง][problem-2]
+- [ระดับยาก][problem-3]
+- [คำถามสอบสัมภาษณ์งาน][problem-interview]
+
+[problem-1]: problems
+[problem-2]: problems
+[problem-3]: problems
+[problem-interview]: problems
 
 <br>
 
 ## การใช้ไพธอนกับงานเฉพาะทาง
 
-- [ศิลปะและความงาม]()
-- [ภาษา]()
-- [การเงิน]()
-- [ธุรกิจ]()
-- [วิทยาศาสตร์]()
-- [วิศวกรรมศาสตร์]()
-- [อื่น ๆ]()
+- [ศิลปะและความงาม][art]
+- [ภาษา][language]
+- [การเงิน][finance]
+- [ธุรกิจ][business]
+- [วิทยาศาสตร์][science]
+- [วิศวกรรมศาสตร์][engineering]
+
+[art]: success-cases
+[language]: success-cases
+[finance]: success-cases
+[business]: success-cases
+[science]: success-cases
+[engineering]: success-cases
 
 <br>
 
 ## ผลงานของคนไทยที่สร้างสรรค์ด้วยไพธอน
 
-- [PyThaiNLP](https://www.thainlp.org/)
+- [PyThaiNLP][pythainlp]
+
+[pythainlp]: https://www.thainlp.org/
 
 <br>
 
@@ -162,7 +195,10 @@ print("Hello Thai Pythonista!")
 
 ## เข้าร่วมกับเรา
 
-ใครที่สนใจพัฒนาหรืออัพเดทเว็บไซต์นี้เพื่อให้เป็นแหล่งเรียนรู้ภาษาไพธอนสำหรับคนไทย สามารถติดต่อมาทางผู้พัฒนาได้ตามช่องทางต่อไปนี้
-- เพจ [สมาคม Python Dev แห่งประเทศไทย](https://www.facebook.com/thai.python.dev/)
+ใครที่สนใจอยากจะพัฒนาเว็บไซต์นี้เพื่อให้เป็นแหล่งเรียนรู้ภาษาไพธอนสำหรับคนไทย [ดูรายละเอียดได้ที่นี่](about) 
+
+นอกจากนี้คุณสามารถติดต่อมาทางผู้พัฒนาได้ตามช่องทางต่อไปนี้
+- FB Fanpage [สมาคม Python Dev แห่งประเทศไทย][python-dev-fb]
 - GitHub <https://github.com/python-thailand/>
-- ร่วมเป็นส่วนหนึ่งของทีม [รายละเอียดคลิกที่นี่](about)
+
+[python-dev-fb]: https://www.facebook.com/thai.python.dev/
