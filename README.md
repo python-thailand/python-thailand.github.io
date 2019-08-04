@@ -2,9 +2,9 @@
 
 <p align="center">
 <img 
-  src="python-th-logo.png" 
+  src="assets/img/python-th-logo-big.png" 
   alt="python-th-logo" 
-  width="30%" 
+  width="70%" 
   height="auto"
 />
 </p>
