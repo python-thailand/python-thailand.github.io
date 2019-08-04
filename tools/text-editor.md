@@ -13,7 +13,7 @@ layout: default
 - Link: [https://jupyter.org/](https://jupyter.org/)
 - [การติดตั้ง Anaconda Python และ Jupyter Notebook บน Windows][prasert-install-jupyter-nb]
 
-[prasert-install-jupyter-n]: https://www.youtube.com/watch?v=f3CLdRl-zyQ
+[prasert-install-jupyter-nb]: https://www.youtube.com/watch?v=f3CLdRl-zyQ
 
 ### Jupyter Lab
 
