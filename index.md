@@ -153,7 +153,7 @@ print("Hello Thai Pythonista!")
 - [Colab Thailand][colab-th-group]
 - [เขียนงูให้วัวกลัว][python-by-cow]
 
-[python-th-group]: https://www.facebook.com/groups/ThaiPGAssociateSociety/
+[python-th-group]: https://www.facebook.com/groups/admin.py.dev/
 [python-dev-page]: https://www.facebook.com/thai.python.dev/
 [thaipy-group]: https://www.facebook.com/groups/thaipybkk/
 [thai-ml-ai-group]: https://www.facebook.com/groups/941490879222335/
