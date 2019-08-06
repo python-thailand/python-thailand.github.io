@@ -4,19 +4,30 @@ title: เกี่ยวกับเว็บไซต์
 permalink: /about/
 ---
 
+---
+
+<br>
+
 ## เราใช้อะไรสร้างเว็บนี้
 
-เว็บไซต์นี้ถูกพัฒนาขึ้นด้วย Jekyll platform รายละเอียดเพิ่มเติมสามารถดูได้ที่คู่มือของ Jekyll [jekyllrb.com](https://jekyllrb.com/)
+เว็บไซต์นี้จัดเป็น Static website ถูกพัฒนาด้วย Jekyll platform โดยใช้ธีม Minima
+ซึ่งข้อดีของการใช้ Jekyll generator ก็คือง่ายต่อการอัพเดทเนื้อหาและการจัดการกับเว็บไซต์ ผู้ที่ไม่มีความรู้เกี่ยวกับ HTML หรือ CSS เลยก็สามารถช่วยเราพัฒนาเว็บไซต์นี้ได้
 
-นอกจากนี้คุณยังสามารถดู source code และคู่มือสำหรับธีมที่เราใช้ในการสร้างเว็บไซต์นี้ นั่นคือ Minima ได้ที่ repository ของ Jekyll บนเว็บไซต์ Github [jekyll][jekyll-organization] /
-[minima](jekyll-minima)
+หน้าหลักและหน้าย่อยแต่ละหน้าถูกสร้างจากไฟล์ Markdown (md) ซึ่งหลายคนที่ใช้ GitHub หรือ host เจ้าอื่นก็น่าจะคุ้นเคยเป็นอย่างดี 
 
+- คู่มือของ Jekyll ดูได้ที่ [https://github.com/jekyll][jekyll-organization] หรือที่เว็บไซต์ <https://jekyllrb.com> 
+- คู่มือของธีม Minima ดูได้ที่ [https://github.com/jekyll/minima][jekyll-minima]
+
+[github-pythai]: https://github.com/python-thailand
 [jekyll-organization]: https://github.com/jekyll
 [jekyll-minima]: https://github.com/jekyll/minima
 
 <br>
 
 ## ช่วยเราพัฒนาเว็บไซต์
+
+ซอร์สโค้ด (source code) ของโปรเจกต์นี้ถูกเก็บไว้ GitHub ของ [Python-Thailand][github-pythai] 
+คุณสามารถ clone โปรเจกต์ไปไว้ที่เครื่องส่วนตัวของคุณได้และส่ง Pull Request (PR) กลับมาให้เราเมื่อคุณต้องการพัฒนา หลังจากนั้นเราจะตรวจสอบความถูกต้องของ PR และรวม (merge) มันเข้ากับซอร์สโค้ดหลักต่อไป
 
 {% highlight bash %}
 git clone https://github.com/python-thailand/python-thailand.github.io.git
@@ -25,6 +36,8 @@ git clone https://github.com/python-thailand/python-thailand.github.io.git
 <br>
 
 ## ส่งคำขอการร่วมพัฒนา
+
+ตัวอย่างสร้าง Pull-request ผ่าน command-line
 
 {% highlight bash %}
 git push https://github.com/python-thailand/python-thailand.github.io master
@@ -38,97 +51,5 @@ git request-pull v1.0 https://github.com/python-thailand/python-thailand.github.
 
 ## ผู้พัฒนา
 
-- รังสิมันต์ เกษแก้ว
-  - E-mail: rangsiman1993@gmail.com
-  - Website: <https://rangsimanketkaew.github.io> 
-  - GitHub: <https://github.com/rangsimanketkaew>
-
-<br>
-
----
-
-<br>
-
-## โครงสร้างเว็บไซต์
-
-_Latest updated: August 3, 2019_
-
-```
-.
-├── 404.html
-├── Gemfile
-├── Gemfile.lock      
-├── README.md
-├── _config.yml       
-├── _site
-│   ├── 404.html      
-│   ├── README.md     
-│   ├── about
-│   │   └── index.html
-│   ├── advanced
-│   │   └── index.html
-│   ├── articles
-│   │   └── index.html
-│   ├── assets
-│   │   ├── img
-│   │   ├── main.css
-│   │   └── minima-social-icons.svg
-│   ├── beginner
-│   │   └── index.html
-│   ├── feed.xml
-│   ├── getting-python
-│   │   ├── download.html
-│   │   ├── get-started.html
-│   │   ├── install.html
-│   │   └── platform.html
-│   ├── index.html
-│   ├── intermediate
-│   │   └── index.html
-│   ├── intro
-│   │   ├── history.html
-│   │   ├── logo.html
-│   │   ├── outcomes.html
-│   │   ├── philosophy.html
-│   │   ├── why-python.html
-│   │   └── you-should-know.html
-│   ├── python-th-logo-big.png
-│   ├── python-th-logo.png
-│   ├── talks
-│   │   └── index.html
-│   └── tools
-│       ├── library-package.html
-│       └── python-editor.html
-├── about.md
-├── advanced
-│   └── index.md
-├── articles
-│   └── index.md
-├── assets
-│   └── img
-│       ├── guido.png
-│       └── python-logo.png
-├── beginner
-│   └── index.md
-├── getting-python
-│   ├── download.md
-│   ├── get-started.md
-│   ├── install.md
-│   └── platform.md
-├── index.md
-├── intermediate
-│   └── index.md
-├── intro
-│   ├── history.md
-│   ├── logo.md
-│   ├── outcomes.md
-│   ├── philosophy.md
-│   ├── why-python.md
-│   └── you-should-know.md
-├── python-th-logo-big.png
-├── python-th-logo.png
-├── talks
-│   └── index.md
-└── tools
-    ├── library-package.md
-    └── python-editor.md
-```
+- [@rangsimanketkaew](https://github.com/rangsimanketkaew)
+- [@yothinix](https://github.com/yothinix)
