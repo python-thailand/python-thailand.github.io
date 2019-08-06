@@ -78,24 +78,19 @@ print("Hello Thai Pythonista!")
 
 <br>
 
-## บทความ
+## โจทย์และการแก้ปัญหา
 
-- [บทความเฉพาะด้าน][read-articles]
-- Web and Internet Development
-- Applications of Python Programming in Desktop GUI
-- Science and Numeric Applications
-- Software Development Application
-- Python Applications in Education
-- Python Applications in Business
-- Database Access
-- Games and 3D Graphics
-- Machine Learning
-- Artificial Intelligence
-- Data Analysis
-- Computer Vision
-- Audio – or Video- based Applications
+- [ระดับพื้นฐาน][problem-1]
+- [ระดับปานกลาง][problem-2]
+- [ระดับยาก][problem-3]
+- [โจทย์แข่งขัน][problem-competition]
+- [คำถามสอบสัมภาษณ์งาน][problem-interview]
 
-[read-articles]: articles
+[problem-1]: problems
+[problem-2]: problems
+[problem-3]: problems
+[problem-competition]: problems/competition
+[problem-interview]: problems
 
 <br>
 
@@ -124,37 +119,43 @@ print("Hello Thai Pythonista!")
 
 <br>
 
-## โจทย์และการแก้ปัญหา
+## บทความ
 
-- [ระดับพื้นฐาน][problem-1]
-- [ระดับปานกลาง][problem-2]
-- [ระดับยาก][problem-3]
-- [โจทย์แข่งขัน][problem-competition]
-- [คำถามสอบสัมภาษณ์งาน][problem-interview]
+- [General articles][article-py-gen]
+- [Web and Internet Development][article-py-web]
+- [Applications of Python Programming in Desktop GUI][article-py-gui]
+- [Science and Numeric Applications][article-py-sci]
+- [Software Development Application][article-py-software-dev]
+- [Python Applications in Education][article-py-edu]
+- [Python Applications in Art][article-py-art]
+- [Python Applications in Language][article-py-lang]
+- [Python Applications in Business][article-py-business]
+- [Database Access][article-py-database]
+- [Games and 3D Graphics][article-py-games]
+- [Artificial Intelligence][article-py-ai]
+- [Deep Learning][article-py-dl]
+- [Machine Learning][article-py-ml]
+- [Data Analysis][article-py-data-ana]
+- [Computer Vision][article-py-comp-vis]
+- [Audio– or Video-based Applications][article-py-multimedia]
 
-[problem-1]: problems
-[problem-2]: problems
-[problem-3]: problems
-[problem-competition]: problems/competition
-[problem-interview]: problems
-
-<br>
-
-## ไพธอนกับงานเฉพาะทาง
-
-- [ศิลปะและความงาม][art]
-- [ภาษา][language]
-- [การเงิน][finance]
-- [ธุรกิจ][business]
-- [วิทยาศาสตร์][science]
-- [วิศวกรรมศาสตร์][engineering]
-
-[art]: success-cases
-[language]: success-cases
-[finance]: success-cases
-[business]: success-cases
-[science]: success-cases
-[engineering]: success-cases
+[article-py-gen]: articles/gen
+[article-py-web]: articles/web
+[article-py-gui]: articles/gui
+[article-py-sci]: articles/sci
+[article-py-software-dev]: articles/software-dev
+[article-py-edu]: articles/edu
+[article-py-art]: articles/art
+[article-py-lang]: articles/lang
+[article-py-business]: articles/business
+[article-py-database]: articles/database
+[article-py-games]: articles/games
+[article-py-ai]: articles/ai
+[article-py-dl]: articles/dl
+[article-py-ml]: articles/ml
+[article-py-data-ana]: articles/data-ana
+[article-py-comp-vis]: articles/comp-vis
+[article-py-multimedia]: articles/multimedia
 
 <br>
 
