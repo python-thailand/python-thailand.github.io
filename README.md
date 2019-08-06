@@ -11,10 +11,12 @@
 
 ยินดีต้อนรับเข้าสู่เว็บไซต์ Python Thailand - แหล่งเรียนรู้ภาษาไพธอนสำหรับคนไทย
 
-## เข้าร่วมกับเรา
+## ร่วมเป็นหนึ่งในทีมพัฒนา
 
-ใครที่สนใจพัฒนาหรืออัพเดทเว็บไซต์นี้เพื่อให้เป็นแหล่งเรียนรู้ภาษาไพธอนสำหรับคนไทย สามารถติดต่อมาทางผู้พัฒนาได้ตามช่องทางต่อไปนี้
-- เพจ [สมาคม Python Dev แห่งประเทศไทย](https://www.facebook.com/thai.python.dev/)
-- ช่วยกันพัฒนาเว็บไซต์
-  `git clone https://github.com/python-thailand/python-thailand.github.io.git`
-- ร่วมเป็นหนึ่งในทีม <https://github.com/python-thailand>
+ใครที่สนใจพัฒนาเว็บไซต์ไม่ว่าจะเป็นการอัพเดทเนื้อหาใหม่หรือการแก้ไขปรับปรุงเนื้อหาเดิมให้มีความถูกต้องมากขึ้น [สามารถดูรายละเอียดเพิ่มเติมได้ที่นี่](about) หรือติดต่อมาทางผู้พัฒนาได้ตามช่องทางต่อไปนี้
+- เพจ [สมาคม Python Dev แห่งประเทศไทย][python-dev-fb-page]
+- กลุ่ม [Python-Thailand][python-dev-fb-group]
+- GitHub <https://github.com/python-thailand>
+
+[python-dev-fb-page]: https://www.facebook.com/thai.python.dev/
+[python-dev-fb-group]: (https://www.facebook.com/groups/admin.py.dev/)

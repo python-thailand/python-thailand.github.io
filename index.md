@@ -82,8 +82,8 @@ print("Hello Thai Pythonista!")
 
 ## หนังสือแนะนำ
 
-- [Python 101 คณะวิศวกรรมศาสตร์ จุฬา ฯ][cu-eng-python-book]
-- [เชี่ยวชาญการเขียนโปรแกรมด้วยไพธอน ผศ.ดร. สุชาติ คุ้มมะณ][suchart-python-book]
+- [Python ๑๐๑ คณะวิศวกรรมศาสตร์ จุฬา ฯ][cu-eng-python-book]
+- [เชี่ยวชาญการเขียนโปรแกรมด้วยไพธอน ผศ.ดร. สุชาติ คุ้มมะณี][suchart-python-book]
 - [Text books ต่างประเทศอื่น ๆ ที่แนะนำ][python-text-book]
 
 [cu-eng-python-book]: https://www.cp.eng.chula.ac.th/books/python101/
@@ -195,12 +195,12 @@ print("Hello Thai Pythonista!")
 
 <br>
 
-## เข้าร่วมกับเรา
+## ร่วมเป็นหนึ่งในทีมพัฒนา
 
-ใครที่สนใจอยากจะพัฒนาเว็บไซต์นี้เพื่อให้เป็นแหล่งเรียนรู้ภาษาไพธอนสำหรับคนไทย [ดูรายละเอียดได้ที่นี่](about)
+ใครที่สนใจพัฒนาเว็บไซต์ไม่ว่าจะเป็นการอัพเดทเนื้อหาใหม่หรือการแก้ไขปรับปรุงเนื้อหาเดิมให้มีความถูกต้องมากขึ้น [สามารถดูรายละเอียดเพิ่มเติมได้ที่นี่](about) หรือติดต่อมาทางผู้พัฒนาได้ตามช่องทางต่อไปนี้
+- เพจ [สมาคม Python Dev แห่งประเทศไทย][python-dev-fb-page]
+- กลุ่ม [Python-Thailand][python-dev-fb-group]
+- GitHub <https://github.com/python-thailand>
 
-นอกจากนี้คุณสามารถติดต่อมาทางผู้พัฒนาได้ตามช่องทางต่อไปนี้
-- FB Fanpage [สมาคม Python Dev แห่งประเทศไทย][python-dev-fb]
-- GitHub <https://github.com/python-thailand/>
-
-[python-dev-fb]: https://www.facebook.com/thai.python.dev/
+[python-dev-fb-page]: https://www.facebook.com/thai.python.dev/
+[python-dev-fb-group]: (https://www.facebook.com/groups/admin.py.dev/)
