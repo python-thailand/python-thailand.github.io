@@ -111,14 +111,16 @@ print("Hello Thai Pythonista!")
 
 <br>
 
-## ทอล์คน่าสนใจ
+## ทอล์คและพอดแคสต์น่าสนใจ
 
 - [PyCon Thailand 2019][pycon-2019-talk]
 - [PyCon Thailand 2018][pycon-2018-talk]
+- [ทำไมเราต้องเรียน Python (ไพธอน) by CodeKids][why-learn-py-codekids]
 - [อื่น ๆ](talks)
 
 [pycon-2019-talk]: https://www.youtube.com/playlist?list=PLTv50MjNM7OrNRagvtwxHHcncUrCgUXe7
 [pycon-2018-talk]: https://www.youtube.com/playlist?list=PLTv50MjNM7OpbcJbEs7EtfYGzliyPcMrV
+[why-learn-py-codekids]: https://soundcloud.com/user-137278435/ep05-python
 
 <br>
 
