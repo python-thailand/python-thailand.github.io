@@ -108,11 +108,13 @@ print("Hello Thai Pythonista!")
 - [ระดับพื้นฐาน][problem-1]
 - [ระดับปานกลาง][problem-2]
 - [ระดับยาก][problem-3]
+- [โจทย์แข่งขัน][problem-competition]
 - [คำถามสอบสัมภาษณ์งาน][problem-interview]
 
 [problem-1]: problems
 [problem-2]: problems
 [problem-3]: problems
+[problem-competition]: problems/competition
 [problem-interview]: problems
 
 <br>
