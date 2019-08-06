@@ -24,7 +24,7 @@ print("Hello Thai Pythonista!")
 ยินดีต้อนรับเข้าสู่ Python Thailand เว็บไซต์ที่เปรียบเสมือนเป็นประตูบานแรกสำหรับคนที่ต้องการก้าวเข้ามาสู่จักรวาลของภาษาไพธอน เว็บไซต์นี้ได้รวบรวมแหล่งข้อมูลที่เกี่ยวข้องกับภาษาไพธอนที่ถูกเขียนขึ้นในภาษาไทย ไม่ว่าจะเป็นทั้งการสอนไพธอน เว็บบล็อกไพธอน รวมถึงวิดีโอที่เกี่ยวกับไพธอนต่าง ๆ
 ไพธอนนั้นมีประโยชน์มากมาย ไพธอนเปรียบเสมือนไม้กายสิทธิ์ที่สามารถช่วยให้เราสร้างสรรค์นวัตกรรมหรือสิ่งใหม่ ๆ ให้กับมวลมนุษยชาติได้
 
-ด้วยเนื้อหาที่อัดแน่นในเว็บไซต์หรือแหล่งข้อมูลที่เรารวบรวมมาให้คุณไว้ที่นี่ คุณจะสามารถเขียนโปรแกรมด้วยภาษาไพธอนได้ เริ่มตั้งแต่การสร้างแอพพลิเคชันอย่างง่ายไปจนถึงโปรแกรมการคำนวณที่ซับซ้อน คุณจะเข้าใจหลักการสำคัญในการเขียนโปรแกรมทั้งในพื้นฐานทั้งหมดและในขั้นสูงที่เป็นการเขียนโปรแกรมแบบเชิงวัตถุ คุณจะได้รู้จักกับเครื่องมือที่ใช้ในการพัฒนาโปรแกรมหลากหลายรูปแบบ ซึ่งเนื้อหาเหล่านี้เป็นพื้นฐานที่สำคัญที่จะทำให้คุณสามารถนำไปพัฒนาทักษะการเขียนโปรแกรมภาษาไพธอน ของคุณในขั้นสูงต่อไป เช่น การพัฒนาเว็บไซต์ การสร้างเกม ฐานข้อมูล เน็ตเวิร์ค การจัดการกราฟฟิค
+ด้วยเนื้อหาที่รวบรวมในเว็บไซต์นี้ คุณจะสามารถเขียนโปรแกรมด้วยภาษาไพธอนได้ เริ่มตั้งแต่การสร้างแอพพลิเคชันอย่างง่ายไปจนถึงโปรแกรมการคำนวณที่ซับซ้อน คุณจะเข้าใจหลักการสำคัญในการเขียนโปรแกรมทั้งในพื้นฐานทั้งหมดและในขั้นสูงที่เป็นการเขียนโปรแกรมแบบเชิงวัตถุ คุณจะได้รู้จักกับเครื่องมือที่ใช้ในการพัฒนาโปรแกรมหลากหลายรูปแบบ ซึ่งเนื้อหาเหล่านี้เป็นพื้นฐานที่สำคัญที่จะทำให้คุณสามารถนำไปพัฒนาทักษะการเขียนโปรแกรมภาษาไพธอน ของคุณในขั้นสูงต่อไป เช่น การพัฒนาเว็บไซต์ การสร้างเกม ฐานข้อมูล เน็ตเวิร์ค การจัดการกราฟฟิค
 
 <br>
 
@@ -59,8 +59,8 @@ print("Hello Thai Pythonista!")
 [platform]: getting-python/platform
 [download]: getting-python/download
 [install]: getting-python/install
-[text-editor]: tools/text-editor
-[library-package]: tools/library-package
+[text-editor]: getting-python/text-editor
+[library-package]: getting-python/library-package
 
 <br>
 
@@ -71,11 +71,30 @@ print("Hello Thai Pythonista!")
 - [เริ่มต้น (Beginner)][level-1]
 - [ปานกลาง (Intermediate)][level-2]
 - [ขั้นสูง (Advanced)][level-3]
-- [บทความเฉพาะด้าน][read-articles]
 
 [level-1]: learning/beginner
 [level-2]: learning/intermediate
 [level-3]: learning/advanced
+
+<br>
+
+## บทความ
+
+- [บทความเฉพาะด้าน][read-articles]
+- Web and Internet Development
+- Applications of Python Programming in Desktop GUI
+- Science and Numeric Applications
+- Software Development Application
+- Python Applications in Education
+- Python Applications in Business
+- Database Access
+- Games and 3D Graphics
+- Machine Learning
+- Artificial Intelligence
+- Data Analysis
+- Computer Vision
+- Audio – or Video- based Applications
+
 [read-articles]: articles
 
 <br>
@@ -119,7 +138,7 @@ print("Hello Thai Pythonista!")
 
 <br>
 
-## การใช้ไพธอนกับงานเฉพาะทาง
+## ไพธอนกับงานเฉพาะทาง
 
 - [ศิลปะและความงาม][art]
 - [ภาษา][language]
