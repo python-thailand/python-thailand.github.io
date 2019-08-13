@@ -21,7 +21,7 @@ layout: default
 - Link: <https://jupyter.org/>
 - ลองเล่น Jupyter Notebook ได้ที่นี่ <https://jupyter.org/try>
 - [การติดตั้ง Anaconda Python และ Jupyter Notebook บน Windows โดย prasertcbs][prasert-install-jupyter-nb]
-- [การติดตั้ง Jupyter Notebook โดย mrolarik][mrolarik-installjupyter-nb]
+- [การติดตั้ง Jupyter Notebook โดย mrolarik][mrolarik-install-jupyter-nb]
 - สอนใช้ Jupyter Notebook โดย BUA Lab
   - [Jupyter Notebook คืออะไร แนะนำ Jupyter Notebook ep.1][bualab-jupyter-ep1]
   - [Jupyter Notebook เบื้องต้น Jupyter Notebook ep.2][bualab-jupyter-ep2]
