@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## บทความ: Games and 3D Graphics
+# บทความ: Games and 3D Graphics
 
 ---
 

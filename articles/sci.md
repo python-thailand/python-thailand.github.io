@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## บทความ: Science and Numeric Applications
+# บทความ: Science and Numeric Applications
 
 ---
 
 <br>
 
-### Matplotlib
+### **Matplotlib**
 
 - [Plot กราฟราคา Bitcoin ด้วย Matplotlib][nonthakon-bitcoin-trend-plot-matplotlib]
 - [สำรวจความนิยมของเหล่าไอดอล BNK48 แบบ real-time ด้วย Python][bnk48-trend-real-time]

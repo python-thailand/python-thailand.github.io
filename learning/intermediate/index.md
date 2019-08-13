@@ -24,16 +24,16 @@ layout: default
 
 ### **สอนไลบรารี่สำคัญ ๆ ของไพธอน โดย prasertcbs**
 
-- **NumPy**
+- NumPy
   - สอน Numpy
   - [ดูวิดีโอที่นี่][prasert-numpy]
-- **Matplotlib**
+- Matplotlib
   - Matplotlib
   - [ดูวิดีโอที่นี่][prasert-matplotlib]
-- **Seaborn**
+- Seaborn
   - การแสดงผลข้อมูล (Data visualization)
   - [ดูวิดีโอที่นี่][prasert-seaborn]
-- **Pandas**
+- Pandas
   - การจัดการกับไฟล์ข้อมูลแบบต่าง ๆ ด้วย Pandas
   - [ดูวิดีโอที่นี่][prasert-pandas]
 
@@ -42,7 +42,7 @@ layout: default
 [prasert-seaborn]: https://www.youtube.com/playlist?list=PLoTScYm9O0GGC9QvLlrQGvMYatTjnOUwR
 [prasert-pandas]: https://www.youtube.com/playlist?list=PLoTScYm9O0GGmynH3uSzUhvcUlo8qK1t1
 
-### Django
+### **Django**
 
 - สร้างเว็บด้วย Django
   - [ตอนที่ 1][nonthakon-create-web-django-part1]

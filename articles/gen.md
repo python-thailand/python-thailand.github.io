@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## บทความ: General Articles
+# บทความ: General Articles
 
 ---
 
 <br>
 
-### บล็อกที่มีบทความเกี่ยวกับไพธอน
+### **บล็อกที่มีบทความเกี่ยวกับไพธอน**
 
 - Paripol Toopiroh [https://medium.com/@paripoltoopiroh](https://medium.com/@paripoltoopiroh)
 - Yothin Muangsommuk [https://medium.com/@yothinix](https://medium.com/@yothinix)
@@ -18,8 +18,9 @@ layout: default
 - lukkiddd [https://medium.com/@lukkiddd](https://medium.com/@lukkiddd)
 - Kan Ouivirach [https://medium.com/@zkan](https://medium.com/@zkan)
 - Thanachart Ritbumroong [https://medium.com/@thanachart.rit](https://medium.com/@thanachart.rit)
+- BUA Lab [https://www.bualabs.com/](https://www.bualabs.com/)
 
-### ไพธอนทั่วไป
+### **บทความทั่วไป**
 
 - [Share ประสบการณ์ Upgrade Python 3.7][exp-upgrade-python37]
 - [virtualenv ใน Python 3 (Windows)][nonthakon-virtualenv-python3-windows]
@@ -33,7 +34,7 @@ layout: default
 [nonthakon-sleep-time]: https://medium.com/@nonthakon/%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9E%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-python-6f61d9f56cf7
 [nonthakon-pyaccounting]: https://medium.com/@nonthakon/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89-python-%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-d520d0201d65
 
-### ไฟล์ CSV
+### **ไฟล์ CSV**
 
 - [เขียนไฟล์ csv][nonthakon-write-csv]
 - [อ่านไฟล์ csv][nonthakon-read-csv]

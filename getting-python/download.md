@@ -8,82 +8,82 @@ layout: default
 
 <br>
 
-### Python ดั้งเดิม
+### **Python ดั้งเดิม**
 
 - ดิสทริบิวท์ชันนี้เป็นตัวที่ถูกพัฒนาโดยตรงจาก CPython
 - Link: <https://www.python.org/downloads/>
 
-### ActivePython from ActiveState
+### **ActivePython from ActiveState**
 
 - Link: <http://www.activestate.com/activepython>
 
-### Anaconda from Continuum Analytics
+### **Anaconda from Continuum Analytics**
 
 - Python distribution ยอดฮิต
 - Link: <https://www.anaconda.com/distribution/#download-section>
 
-### Miniconda
+### **Miniconda**
 
 - Anaconda ฉบับย่อ ซึ่งจะมีแต่ตัว distribution ไม่มีกสนติดตั้งไลบรารี่ล่วงหน้ามาให้เหมือนกับของ Anaconda
 - Link: <https://docs.conda.io/en/latest/miniconda.html>
 
-### ChinesePython Project
+### **ChinesePython Project**
 
 - Link: <http://www.chinesepython.org/>
 
-### Enthought's Canopy
+### **Enthought's Canopy**
 
 - Link: <https://enthought.com/>
 
-### Win9xPython
+### **Win9xPython**
 
 - Link: <http://gillibert.fr/andre/projects/python>
 
-### IPython and its IPyKit variant
+### **IPython and its IPyKit variant**
 
 - Link: <https://wiki.python.org/moin/IPython>
 
-### PocketPython
+### **PocketPython**
 
 - Link: <http://www.murkworks.com/Research/Python/PocketPCPython/Overview>
 
-### Portable Python
+### **Portable Python**
 
 - Link: <http://www.portablepython.com/>
 
-### PyIMSL Studio
+### **PyIMSL Studio**
 
 - Link: <https://wiki.python.org/moin/PyIMSL%20Studio>
 
-### PyPy
+### **PyPy**
 
 - Link: <https://wiki.python.org/moin/PyPy>
 
-### Python(x,y)
+### **Python(x,y)**
 
 - Link: <https://python-xy.github.io/>
 
-### PythonForArmLinux
+### **PythonForArmLinux**
 
 - Link: <https://wiki.python.org/moin/PythonForArmLinux>
 
-### PythonLabsPython
+### **PythonLabsPython**
 
 - ชื่อเก่าของ python.org distribution
 - Link: <https://wiki.python.org/moin/PythonLabsPython>
 
-### PythonwarePython
+### **PythonwarePython**
 
 - Link: <https://wiki.python.org/moin/PythonwarePython>
 
-### StacklessPython
+### **StacklessPython**
 
 - Link: <https://wiki.python.org/moin/StacklessPython>
 
-### Tiny Python
+### **Tiny Python**
 
 - Link: <http://web.archive.org/web/20060326191953/http://www.mhuffman.com/resource/index.html>
 
-### WinPython
+### **WinPython**
 
 - Link: <https://winpython.github.io/>

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## บทความ: Python Applications in Art
+# บทความ: Python Applications in Art
 
 ---
 

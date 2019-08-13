@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## โจทย์แข่งขัน
+# โจทย์แข่งขัน
 
 ---
 
 <br>
 
-### TechJam Thailand 2018
+### **TechJam Thailand 2018**
 - Official website: <https://www.techjam.tech>
 - Problems: [view and download][techjam-problem-file]
 

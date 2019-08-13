@@ -8,17 +8,17 @@ layout: default
 
 <br>
 
-### Google Colab
+### **Google Colab**
 
 - สอนใช้ Google Colabs: GPU ฟรี ทำ Deep Learning โคตรเร็ว โดย Data Science ชิลชิล
   - Link: https://www.youtube.com/watch?v=iEigyZmrcj8
 
-### PyTorch
+### **PyTorch**
 
 - สอนการใช้งาน PyTorch โดย phyblas
 - Link: <https://phyblas.hinaboshi.com/saraban/pytorch>
 
-### Deep Learning
+### **Deep Learning**
 
 - บทความแนะนำเริ่มต้น Deep Learning โดยคุณ @dipplerz
   - [First step to Deep Learning — ความรู้พื้นฐานอะไรบ้างที่จำเป็นในการศึกษาDeep Neural Network][first-step-deep-learning]
@@ -36,7 +36,7 @@ layout: default
   - [Part 3](https://www.youtube.com/watch?v=QVA7pxTu8VI)
   - [Part 4](https://www.youtube.com/watch?v=KLWMoSxF85o)
 
-### Machine Learning
+### **Machine Learning**
 
 - ทฤษฎีของ Machine Learning โดย EOSS Records
   - Link: <https://www.youtube.com/watch?v=6QI70bNLzP4>
@@ -44,7 +44,7 @@ layout: default
 - สอน Machine Learning ด้วย scikit-learn (sklearn) โดย รศ. ดร. ประเสริฐ คณาวัฒนไชย คณะพาณิชยศาสตร์และการบัญชี จุฬาลงกรณ์มหาวิทยาลัย
   - Link: <https://www.youtube.com/playlist?list=PLoTScYm9O0GH_3VrwwnQafwWQ6ibKnEtU>
 
-### Bayesian Neural Network
+### **Bayesian Neural Network**
 
 - สอนทฤษฎีของเบย์แบบเข้าใจง่าย ๆ และสั้น ๆ กะทัดรัดโดยคุณ Engkarat Techapanurak
   - [ตอนที่ 1 ทฤษฎีความน่าจะเป็นแบบเบย์ ๆ](https://goo.gl/DkC22U)
@@ -52,12 +52,12 @@ layout: default
   - [ตอนที่ 3 อะไรคือ Deep Learning และอะไรคือ Neural Network ฉบับมือใหม่](https://goo.gl/yjTsLs)
   - [ตอนที่ 4 Model ที่เรียนรู้ด้วย Probabilistic Distribution](https://goo.gl/UM3bDD)
 
-### Remote Sensing
+### **Remote Sensing**
 
 - Python Opensource Remote Sensing
 - Link: [https://medium.com/geo-datascience/python-opensource-remote-sensing-01-7652cc9998f6](https://medium.com/geo-datascience/python-opensource-remote-sensing-01-7652cc9998f6)
 
-### Prediction
+### **Prediction**
 
 - Python กับการทำนาย โดยคุณ Wichai Treethidtaphat
   - สอนโมเดลพื้นฐานแบบ linear regression เช่น OLS และโมเดลที่ซับซ้อนมากขึ้น เช่น deep neural network

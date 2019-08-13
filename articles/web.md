@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## บทความ: Web and Internet Development
+# บทความ: Web and Internet Development
 
 ---
 
 <br>
 
-### Django
+### **Jupyter**
+
+- [ใช้ Jupyter ทำ REST API แบบง่าย][jupyter-for-rest-api]
+
+[jupyter-for-rest-api]: https://i.dont.works/jupyter-basic-rest-api/
+
+### **Django**
 
 - [เริ่มพัฒนา Web Application กับภาษา Python ด้วย Django Framework][web-app-django-framework]
 - [LoginViews และ LogoutViews ใน Django 1.11][nonthakon-login-django]
