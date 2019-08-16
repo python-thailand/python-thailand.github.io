@@ -93,6 +93,12 @@ layout: default
 
 ### **การประมวลข้อมูลทางภาษา (NPL)**
 
-- บล๊อกที่สอนการใช้เครื่องมือเฉพาะทางต่าง ๆ ของไพธอนในการประมวลข้อมูลทางภาษาด้วยภาษาไพธอน และ package ต่างที่ช่วยในการตัดคำ ติด pos tag ตัดพยางค์ และวิเคราะห์โครงสร้างประโยค
+- บล็อกที่สอนการใช้เครื่องมือเฉพาะทางต่าง ๆ ของไพธอนในการประมวลข้อมูลทางภาษาด้วยภาษาไพธอน และ package ต่างที่ช่วยในการตัดคำ ติด pos tag ตัดพยางค์ และวิเคราะห์โครงสร้างประโยค
 - รีวิวไพธอนก่อนเรียนคอร์สนี้ [Python Review](https://colab.research.google.com/drive/1Xo1_vIwXUC8-c1YeI5lqMA_oAbLFbsaK)
 - Link: <https://attapol.github.io/compling/basictext.html>
+
+### **การประมวลผลภาพ (Image processing)**
+
+- Computer Vision ด้วย OpenCV บน Python
+ - วิดีโอสอนการทำ image processing แบบเข้าใจง่าย ๆ โดยแชนแนล AI บ้านบ้าน
+- Link: <https://www.youtube.com/watch?v=1o8J1r-G6XY>

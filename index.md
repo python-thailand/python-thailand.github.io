@@ -106,6 +106,26 @@ print("Hello Thai Pythonista!")
 
 <br>
 
+## แชนแนลยูทูปแนะนำ
+
+- [SIPA programming][yt-sipa-programming]
+- [prasertcbs][yt-prasertcbs]
+- [Kong Ruksiam][yt-kong-ruksiam]
+- [Piyanop Nuchanat][yt-piyanop-nuchanat]
+- [AI บ้านบ้าน][yt-ai-banban]
+- [Rangsiman][yt-rangsiman]
+- [Uncle Engineer][yt-uncle-engineer]
+
+[yt-sipa-programming]: https://www.youtube.com/channel/UCgWqtSlHS0hCFlV4OfcAmAQ
+[yt-prasertcbs]: https://www.youtube.com/user/prasertcbs
+[yt-kong-ruksiam]: https://www.youtube.com/channel/UCB6eDEzpqpiaZnDMzoje57Q
+[yt-piyanop-nuchanat]: https://www.youtube.com/channel/UCluWaSUkB8WMZ722yjNpWgg
+[yt-ai-banban]: https://www.youtube.com/channel/UCIlmY13nFIVFtd1S1ocnn3Q
+[yt-rangsiman]: https://www.youtube.com/rangsiman1993
+[yt-uncle-engineer]: https://www.youtube.com/channel/UCqpjARTD4PHnLexXUdb15aQ
+
+<br>
+
 ## ทอล์คและพอดแคสต์น่าสนใจ
 
 - [PyCon Thailand 2019][pycon-2019-talk]

@@ -40,7 +40,7 @@ layout: default
 - เรียนไพธอนที่กูเกิลสำหรับการศึกษา (Google for Education) ก็เป็นอีกช่องทางหนึ่งที่น่าสนใจ ศึกษาไพธอนกับองค์กรระดับโลกอย่างกูเกิล มีทั้งตัวอย่างของโค๊ดและวิดีโอสอน นอกจากนี้ยังช่วยให้เราฝึกภาษาอังกฤษอีกด้วย
 - Link: <https://developers.google.com/edu/python/>
 
-### **บล๊อก python3.wannaphong.com**
+### **บล็อก python3.wannaphong.com**
 
 - สอนพื้นฐานภาษาไพธอน โดย วรรณพงษ์  ภัททิยไพบูลย์
 - Link: <https://python3.wannaphong.com/p/blog-page_7.html>
