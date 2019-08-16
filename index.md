@@ -215,6 +215,14 @@ print("Hello Thai Pythonista!")
 
 <br>
 
+## เบ็ดเตล็ด
+
+- [เอกสารรวบรวมคำสั่ง][py-cheat-sheet]
+
+[py-cheat-sheet]: misc/cheat-sheet
+
+<br>
+
 ---
 
 <br>
