@@ -141,23 +141,25 @@ print("Hello Thai Pythonista!")
 
 ## บทความ
 
-- [General articles][article-py-gen]
-- [Web and Internet Development][article-py-web]
-- [Applications of Python Programming in Desktop GUI][article-py-gui]
-- [Science and Numeric Applications][article-py-sci]
-- [Software Development Application][article-py-software-dev]
-- [Python Applications in Education][article-py-edu]
-- [Python Applications in Art][article-py-art]
-- [Python Applications in Language][article-py-lang]
-- [Python Applications in Business][article-py-business]
-- [Database Access][article-py-database]
-- [Games and 3D Graphics][article-py-games]
-- [Artificial Intelligence][article-py-ai]
-- [Deep Learning][article-py-dl]
-- [Machine Learning][article-py-ml]
-- [Data Analysis][article-py-data-ana]
-- [Computer Vision][article-py-comp-vis]
-- [Audio– or Video-based Applications][article-py-multimedia]
+แบ่งตามหมวดหมู่
+
+- [ทั่วไป][article-py-gen]
+- [การพัฒนาเว็บไซต์และอินเทอร์เน็ต][article-py-web]
+- [การพัฒนาซอฟต์แวร์][article-py-software-dev]
+- [การพัฒนาแอพพลิเคชันแบบ Desktop GUI][article-py-gui]
+- [การประยุกต์ใช้ทางคณิตศาสตร์และวิทยาศาสตร์][article-py-sci]
+- [การประยุกต์ใช้ทางการศึกษา][article-py-edu]
+- [การประยุกต์ใช้ทางศิลปะ][article-py-art]
+- [การประยุกต์ใช้ทางภาษา][article-py-lang]
+- [การประยุกต์ใช้ทางธุรกิจ][article-py-business]
+- [เกมส์และ 3D กราฟฟิก][article-py-games]
+- [ปัญญาประดิษฐ์ (AI)][article-py-ai]
+- [การเรียนรู้แบบลึก (DL)][article-py-dl]
+- [การเรียนรู้ของเครื่องจักร (ML)][article-py-ml]
+- [การจัดการและการเข้าถึงฐานข้อมูล][article-py-database]
+- [การวิเคราะห์ข้อมูล][article-py-data-ana]
+- [การประมวลผมภาพ][article-py-comp-vis]
+- [การประยุกต์ใช้ทางมัลติมีเดีย][article-py-multimedia]
 
 [article-py-gen]: articles/gen
 [article-py-web]: articles/web
@@ -220,6 +222,14 @@ print("Hello Thai Pythonista!")
 [code-mania-web]: https://www.thaiprogrammer.org/
 [techjam-web]: https://www.techjam.tech/__tj200718/
 [pysomtum-web]: https://www.facebook.com/writepythontoscarecow
+
+<br>
+
+## แหล่งเรียนรู้ต่างประเทศ
+
+- [คอร์สเรียนฟรีไพธอนของต่างประเทศที่น่าสนใจ][recommended-other-python-course]
+
+[recommended-other-python-course]: courses/
 
 <br>
 
