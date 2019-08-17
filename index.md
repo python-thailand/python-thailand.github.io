@@ -217,7 +217,7 @@ print("Hello Thai Pythonista!")
 - [TECHJAM][techjam-web]
 - [PySomTum][pysomtum-web]
 
-[pycon-th-web]: th.pycon.org
+[pycon-th-web]: https://th.pycon.org
 [thaipy-web]: https://www.meetup.com/ThaiPy-Bangkok-Python-Meetup/
 [code-mania-web]: https://www.thaiprogrammer.org/
 [techjam-web]: https://www.techjam.tech/__tj200718/
