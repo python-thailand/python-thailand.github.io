@@ -63,6 +63,9 @@ layout: default
 ### **Vi/Vim**
 
 - Link: [https://www.vim.org/](https://www.vim.org/)
+- [สอน Vim และการติดตั้งปลั๊กอินสำหรับการเขียนโปรแกรม โดย Rangsiman][rangsiman-vim-for-programming]
+
+[rangsiman-vim-for-programming]: https://www.youtube.com/playlist?list=PLt-twymrmZ2cnk-8JZIrdHFSrh4_LPnLU
 
 ### **NotePad++**
 
